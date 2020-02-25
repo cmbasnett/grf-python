@@ -1,0 +1,3 @@
+[submodule "libgrf"]
+	path = libgrf
+	url = https://github.com/cmbasnett/libgrf.git
